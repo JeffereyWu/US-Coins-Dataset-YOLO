@@ -1,0 +1,15 @@
+names:
+- Dime
+- Nickel
+- Penny
+- Quarter
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: u.s.-coins-dataset-a.tatham
+  url: https://universe.roboflow.com/atathamuscoinsdataset/u.s.-coins-dataset-a.tatham/dataset/5
+  version: 5
+  workspace: atathamuscoinsdataset
+test: ../test/images
+train: U.S.-Coins-Dataset---A.Tatham-5/train/images
+val: U.S.-Coins-Dataset---A.Tatham-5/valid/images
